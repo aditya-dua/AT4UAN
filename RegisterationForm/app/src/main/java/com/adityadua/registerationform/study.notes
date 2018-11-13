@@ -1,0 +1,43 @@
+UI => res folder
+Holder of Resources , any static component
+
+HTML Pages / Images => Web App
+Mobile Apps => Images / UI / String / Property
+
+layout -> exclusively on the layout folders
+It holds the layout ?
+How is UI present in Android ?? XML
+XML NameScheme : DTD  => you are read on your own
+
+.xml => extension of a layout file
+if you define a page , you will need a base component
+ViewGroups :
+We call this base component as Layout => Java Class
+RelativeLayout
+LinearLayout
+AbsoluteLayout
+FrameLayout
+ConstraintLayout
+TableLayout and so - on
+
+LinearLayout : horizontal or vertical
+RelativeLayout : its relation
+AbsoluteLayout : obslete
+TableLayout : Rows
+
+Views : => TextView , ListView
+
+Question :
+Try to make a calculator using LinearLayout ?
+
+Question :
+Try to make a Registeration Form - Name, Phone Number , Email Address , Gender
+Age Group
+Hobbies
+
+submit & reset
+
+
+
+
+

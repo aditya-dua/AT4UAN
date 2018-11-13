@@ -1,0 +1,20 @@
+Take : id & text
+
+3 ways in which you can implement a onclick listener
+
+
+1 => a funtion with param : View v
+
+any thing : linearlayout => viewgroup
+, a button , a text view  => view
+
+viewgroup=> view
+
+
+vehicle => car,bus,truck
+
+printvehicle()
+create...()
+
+@override
+

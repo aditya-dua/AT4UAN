@@ -1,0 +1,21 @@
+
+Activity : UI screen
+at one time there can be only 1 activty present of an application
+which actovty is decided by the manifest file
+
+Lifecycle :
+
+1) onCreate
+2) onStart
+3) onResume
+4) onPause
+5) onStop
+6) onDestroy
+
+.... onRestart()
+
+ui : oncreate
+db : oncreate
+onresume : data :: ui phir se show once
+onpuase : temp
+
