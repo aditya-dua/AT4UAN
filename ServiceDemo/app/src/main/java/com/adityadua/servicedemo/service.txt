@@ -1,0 +1,17 @@
+What is a service ?
+Background component
+
+
+Android 4 components
+1) activity
+2) service
+3) content provider
+4) broadcast receiver
+
+Service is a component which is running in background....
+any android component can start or stop a service
+
+For : activity u can start a service
+
+onstart
+onstop
